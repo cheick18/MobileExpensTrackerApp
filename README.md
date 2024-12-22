@@ -24,7 +24,7 @@ Cette application permet aux utilisateurs de gérer et de catégoriser leurs dé
 
 - Menu principal de l'application
 ![Menu principal de l'application](nav.png)
-- Page d'accueil après inscription
+- Page d'accueil après inscription ou connexion
 ![Page d'accueil après inscription](acceuil.png)
 
 ## Interfaces de sécurité
@@ -41,7 +41,7 @@ Cette application permet aux utilisateurs de gérer et de catégoriser leurs dé
 ## Interfaces de gestion de comptes
 
 - Liste des comptes
-![Liste des comptes](listCompte.png)
+![Liste des comptes](listComte.png)
 - Création de compte
 ![Création de compte](creationCompte.png)
 
@@ -66,7 +66,7 @@ Cette application permet aux utilisateurs de gérer et de catégoriser leurs dé
 ![Formulaire de création de dépense](triDepense.png)
 - Chargement ou photographie du reçu d'une dépense
 ![Chargement ou photographie du reçu d'une dépense](photographierRecu.png)
-- Selection de la periode de dpense pour le tableau de bord
+- Selection de la periode de dépense pour le tableau de bord
 ![Selection de la periode de dpense pour le tableau de bord](selectionPeriodeExpenseDashboard.png)
 - Tableau de bord des dépenses
 ![Tableau de bord des dépenses](dashboardExpense3Mois.png)
