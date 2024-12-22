@@ -41,7 +41,7 @@ Cette application permet aux utilisateurs de gérer et de catégoriser leurs dé
 ## Interfaces de gestion de comptes
 
 - Liste des comptes
-![Liste des comptes](listComte.png)
+![Liste des comptes](listeComte.png)
 - Création de compte
 ![Création de compte](creationCompte.png)
 
