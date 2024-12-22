@@ -61,7 +61,9 @@ Cette application permet aux utilisateurs de gérer et de catégoriser leurs dé
 - Description d’une dépense
 ![Description d’une dépense](descriptionExpense.png)
 - Formulaire de création de dépense
-![Formulaire de création de dépense](triDepense.png)
+![Formulaire de création de dépense](createExpense.png)
+- Autorisation pour accéder à la camera du telephone
+![Autorisation pour accéder à la camera du telephone](permissionPhone.png)
 - Chargement ou photographie du reçu d'une dépense
 ![Chargement ou photographie du reçu d'une dépense](photographierRecu.png)
 - Selection de la periode de dépense pour le tableau de bord
