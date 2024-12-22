@@ -69,8 +69,8 @@ Cette application permet aux utilisateurs de gérer et de catégoriser leurs dé
 - Selection de la periode de dépense pour le tableau de bord
 ![Selection de la periode de dpense pour le tableau de bord](selectionPeriodeExpenseDashboard.png)
 - Tableau de bord des dépenses
-![Tableau de bord des dépenses](dashboardExpense3Mois.png)
-![Tableau de bord des dépenses](dashboardExpense6Mois.png)
+![Tableau de bord des dépenses](dashboardExpenseTroisMois.png)
+![Tableau de bord des dépenses](dashboardExpense6mois.png)
 - Sélection des dépenses pour exportation
 ![Sélection des dépenses pour exportation](exportSelection.png)
 - Exportation des dépenses
