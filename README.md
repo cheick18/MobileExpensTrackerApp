@@ -51,8 +51,6 @@ Cette application permet aux utilisateurs de gérer et de catégoriser leurs dé
 ![Liste des catégories](listeCategorie.png)
 - Création de catégories
 ![Création de catégories](createCategorie.png)
-- Modification de catégories
-![Modification de catégories](updateCategorie.png)
 
 ## Interfaces de gestion des dépenses
 
